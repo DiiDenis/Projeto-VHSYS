@@ -1,0 +1,28 @@
+{
+  "name": "nuxt-vhsys",
+  "version": "1.0.0",
+  "description": "My awe-inspiring Nuxt.js project",
+  "author": "Denis Izaias Pereira",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "bootstrap-vue": "^2.0.0-rc.20",
+    "cross-env": "^5.2.0",
+    "lodash": "^4.17.11",
+    "node-sass": "^4.12.0",
+    "nuxt": "^2.4.0",
+    "nuxt-fontawesome": "^0.4.0",
+    "sass-loader": "^7.1.0",
+    "v-mask": "^1.3.3",
+    "webpack": "^4.32.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
