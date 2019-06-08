@@ -1,6 +1,7 @@
 # nuxt-vhsys
 
-> My awe-inspiring Nuxt.js project
+Projeto de uma LP, a mesma não foi finalizada, a ideia é mostrar a componentização e a reutilização dos componentes, no caso como exemplo, o BaseInput e outros componente.
+Feito em VueJs projeto com estrutura do NUXT
 
 ## Build Setup
 
