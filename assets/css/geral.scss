@@ -1,0 +1,48 @@
+@import 'paleta';
+@import 'fontes';
+@import 'basic-styles';
+
+* {
+    color: $dark-neutral;
+}
+
+body {
+    font-family: 'Lato', sans-serif !important;
+    font-size: 14px;
+    -webkit-font-smoothing: antialiased;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    margin: 0px;
+    padding: 0px;
+    line-height: 26px;
+    -webkit-font-smoothing: antialiased;
+}
+
+.flex-box-one {
+    display: flex;
+    flex: 1;
+}
+
+.container {
+    max-width: 100% !important;
+  
+    @media (min-width: 600px) {
+      max-width: 600px !important;
+    }
+  
+    @media (min-width: 960px) {
+      max-width: 960px !important;
+    }
+  
+    @media (min-width: 1380px) {
+      max-width: 1280px !important;
+    }
+  }
+

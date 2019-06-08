@@ -1,0 +1,39 @@
+$light-blue: #04F7F7;
+$medium-blue: #00D1DF;
+$dark-blue: #00919D;
+
+$light-dark-blue: #5088E1;
+$medium-dark-blue: #174a7f;
+$dark-dark-blue: #002868;
+
+$super-light-neutral: #F4F7FB;
+$light-neutral: #D0DDEA;
+$medium-neutral: #7C92AB;
+$dark-neutral: #30455C;
+
+$green-accent: #56BD5B;
+$orange-accent: #FFB523;
+$red-accent: #E34C4C;
+$purple-accent:  rgb(116, 76, 227);
+$color-badge: #FF2358;
+$color-border-cobrinha: #00d1df;
+$color-box-plano: #DBF6F8;
+
+$white: #FFFFFF;
+
+$colors: (
+  light-blue: $light-blue,
+  medium-blue: $medium-blue,
+  dark-blue: $dark-blue,
+  light-dark-blue: $light-dark-blue,
+  medium-dark-blue: $medium-dark-blue,
+  dark-dark-blue: $dark-dark-blue,
+  white: $white,
+  medium-neutral: $medium-neutral,
+  dark-neutral: $dark-neutral,
+  green-accent: $green-accent,
+  orange-accent: $orange-accent,
+  red-accent: $red-accent,
+  purple-accent: $purple-accent,
+  super-light-neutral: $super-light-neutral,
+);
